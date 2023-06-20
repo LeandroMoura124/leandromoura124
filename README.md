@@ -1,5 +1,5 @@
 ### Hello, my name is Leandro Moura 👨‍💻
-### I'm a fullstack developer. Always in constant evolution in my technical improvements. I have a degree in Systems Analysis and Development and I am currently graduating at the FIAP educational institution.
+### I'm a fullstack developer. Always in constant evolution in my technical improvements. I have a degree in technical education in Systems Analysis and Development and I am currently graduating in technology at the educational institution FIAP.
 
 ### I have knowledge of several Web development languages and a solid domain in .NET development. I aim for the strong collaboration for great technological innovations and the technical contribution to the constant evolution in the area of programming. Always looking to update myself in the market, I dedicate 100% of my technical capacity in improving knowledge for my professional progress in the world of development.
 
