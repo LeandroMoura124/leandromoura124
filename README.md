@@ -1,13 +1,71 @@
-### Hello, my name is Leandro Moura 👨‍💻
-### I'm a fullstack developer. Always in constant evolution in my technical improvements. I have a degree in technical education in Systems Analysis and Development and I am currently graduating in technology at the educational institution FIAP.
+### 👋 Olá, me chamo Leandro Moura!
 
-### I have knowledge of several Web development languages and a solid domain in .NET development. I aim for the strong collaboration for great technological innovations and the technical contribution to the constant evolution in the area of programming. Always looking to update myself in the market, I dedicate 100% of my technical capacity in improving knowledge for my professional progress in the world of development.
+<br>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<p align="left">
+  Atualmente sou <strong>Engenheiro de Software / Dev. Fullstack</strong> na <strong>Trestto Tecnologia</strong>.
+  <br><br>
+  Com mais de 2 anos de experiência, sou apaixonado por inovação tecnológica e pela construção de soluções robustas e escaláveis, com foco principal em automações Python, no ecossistema .NET e desenvolvimento front-end moderno.
+  <br><br>
+  Sou formado em Análise e Desenvolvimento de Sistemas e tenho [Pós-graduação/Certificação] pela FIAP, buscando sempre aprimorar meus conhecimentos técnicos para contribuir com o progresso da equipe e do produto.
+</p>
+
+<br>
+
+---
+
+### 🚀 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <a href="https://github.com/leandromoura124">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandromoura124&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromoura124&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</p>
+
+<br>
+
+---
+
+### 🔧 Tecnologias e Ferramentas
+
+<div align="left">
+  
+  **Backend & Banco de Dados:**
+  <br>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+
+  <br><br>
+  **Frontend:**
+  <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  
+  <br><br>
+  **Cloud & DevOps:**
+  <br>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/CI%2FCD-2088C1?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD">
+  
 </div>
+
+<br>
+
+---
+
+### 📫 Onde me encontrar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/moura-leandro/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
