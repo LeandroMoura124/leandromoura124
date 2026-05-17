@@ -5,7 +5,7 @@
 <p align="left">
   Atualmente sou <strong>Engenheiro de Software / Dev. Fullstack</strong> na <strong>Trestto Tecnologia</strong>.
   <br><br>
-  Com mais de 2 anos de experiência, sou apaixonado por inovação tecnológica e pela construção de soluções robustas e escaláveis, com foco principal em automações Python, no ecossistema .NET e desenvolvimento front-end moderno.
+  Com mais de 3 anos de experiência, sou apaixonado por inovação tecnológica e pela construção de soluções robustas e escaláveis, com foco principal em automações Python, no ecossistema .NET e desenvolvimento front-end moderno.
   <br><br>
   Sou formado em Análise e Desenvolvimento de Sistemas e tenho [Pós-graduação/Certificação] pela FIAP, buscando sempre aprimorar meus conhecimentos técnicos para contribuir com o progresso da equipe e do produto.
 </p>
