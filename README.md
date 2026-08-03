@@ -62,74 +62,6 @@
 
 ---
 
-
-
-
-
-Quero que você me guie passo a passo para configurar o Obsidian na minha máquina corporativa do Itaú, do zero, de forma prática e em português.
-
-Contexto:
-- Vou usar essa configuração para trabalho, produtividade, anotações de reuniões, ServiceNow, reports, planilhas, SharePoint, Power Automate, automações e conhecimento operacional.
-- Quero separar totalmente o cofre corporativo do meu cofre pessoal.
-- A máquina do Itaú é corporativa e pode ter restrições de segurança. Se houver qualquer limitação de política, me avise e adapte o caminho.
-- Se o sistema for Windows, adapte os passos para Windows. Não assuma macOS.
-- Eu quero um fluxo simples, organizado e seguro, sem complicar.
-
-Objetivo:
-- Criar um cofre corporativo no Obsidian.
-- Organizar a estrutura de pastas em português.
-- Configurar os plugins nativos essenciais.
-- Criar templates para uso diário.
-- Criar uma nota inicial “Home”.
-- Deixar o ambiente pronto para capturar reuniões, dúvidas, tarefas, RCA e conhecimento.
-- Se for apropriado e permitido, sugerir integrações úteis com as ferramentas corporativas disponíveis.
-
-Estrutura de pastas que quero usar:
-- 00-Caixa de Entrada
-- 10-Trabalho
-- 20-Projetos
-- 30-Procedimentos
-- 40-RCA
-- 50-Modelos
-- 60-Conhecimento
-- 90-Anexos
-
-Regras de trabalho:
-- Me dê instruções curtas, objetivas e em ordem.
-- Pare depois de cada etapa importante e me pergunte se posso seguir.
-- Não pule etapas.
-- Quando eu mandar um print, analise o print e me diga exatamente o próximo clique.
-- Se houver mais de uma opção, recomende a mais simples e segura.
-- Não me faça configurar coisas desnecessárias agora.
-- Não misture com nada pessoal nem com meu vault de casa.
-
-O que eu quero configurar primeiro:
-1. Criar o cofre corporativo.
-2. Criar as pastas acima.
-3. Ativar os plugins nativos essenciais:
-   - Modelos
-   - Notas diárias
-   - Links inversos
-   - Paleta de comandos
-   - Recuperação de arquivos
-   - Painel de etiquetas
-   - Sumário, se fizer sentido
-4. Configurar a pasta de modelos.
-5. Criar os 3 modelos:
-   - Modelo - Nota diária
-   - Modelo - Nota de trabalho
-   - Modelo - RCA
-6. Criar a nota Home.
-7. Testar o fluxo de notas diárias e de trabalho.
-
-Como quero que você me ajude:
-- Explique o motivo de cada configuração de forma simples.
-- Diga exatamente onde clicar.
-- Se eu travar em uma tela, me faça continuar olhando o print.
-- Se houver algo específico do Windows ou da versão do Obsidian, adapte sem assumir nada.
-
-Depois dessa base, eu posso decidir se quero integrar outras ferramentas corporativas, mas por enquanto quero só deixar o Obsidian bem configurado e funcional.
-
 ### 📫 Onde me encontrar
 
 <p align="left">
@@ -137,3 +69,64 @@ Depois dessa base, eu posso decidir se quero integrar outras ferramentas corpora
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+
+
+Quero que você continue me guiando passo a passo na configuração do meu Obsidian na máquina corporativa do Itaú, em português e de forma bem prática.
+
+Estado atual:
+- O Obsidian já está instalado.
+- Já criei um cofre corporativo separado.
+- Já criei as pastas:
+  - 00-Caixa de Entrada
+  - 10-Trabalho
+  - 20-Projetos
+  - 30-Procedimentos
+  - 40-RCA
+  - 50-Modelos
+  - 60-Conhecimento
+  - 90-Anexos
+- Ainda não configurei plugins, templates nem nota inicial.
+
+Objetivo:
+- Deixar o Obsidian pronto para uso profissional.
+- Organizar notas de reuniões, calls, ServiceNow, reports, planilhas, SharePoint, Power Automate, procedimentos e RCA.
+- Criar um sistema simples, seguro e útil para trabalho diário.
+
+Quero que você faça o próximo passo agora, seguindo esta ordem:
+1. Configurar os plugins nativos essenciais.
+2. Configurar a pasta de modelos.
+3. Criar os 3 modelos:
+   - Modelo - Nota diária
+   - Modelo - Nota de trabalho
+   - Modelo - RCA
+4. Criar a nota Home.
+5. Configurar Notas Diárias.
+6. Ajustar Arquivos e Links.
+7. Fazer um teste prático com uma nota diária e uma nota de trabalho.
+
+Regras:
+- Me guie como se eu estivesse aprendendo do zero.
+- Explique o motivo de cada etapa, mas sem enrolar.
+- Diga exatamente onde clicar.
+- Pare depois de cada etapa importante e aguarde minha confirmação.
+- Se eu mandar print, analise o print e me diga o próximo clique exato.
+- Se houver risco de misturar ambiente corporativo com pessoal, avise.
+- Não assuma que estou no macOS; adapte ao sistema da máquina do Itaú.
+- Não avance para automações avançadas até essa base estar pronta.
+
+Estrutura de uso que quero seguir:
+- 00-Caixa de Entrada = captura rápida
+- 10-Trabalho = notas do dia a dia
+- 20-Projetos = projetos maiores
+- 30-Procedimentos = runbooks e passo a passo
+- 40-RCA = incidentes e causa raiz
+- 50-Modelos = templates
+- 60-Conhecimento = aprendizados e referências
+- 90-Anexos = evidências e arquivos
+
+Contexto profissional:
+- Trabalho com TI, ServiceNow, reports, dashboards, extração de dados, planilhas, SharePoint e Power Automate.
+- Quero usar o Obsidian como memória de trabalho e base de conhecimento.
+
+Comece agora pela configuração dos plugins nativos e me diga exatamente o que fazer na tela atual.
