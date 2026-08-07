@@ -73,24 +73,31 @@
 
 
 
+function getCanal() {
+    var fila = (current.getDisplayValue('queue') || '').toLowerCase();
 
-var fila = (current.getDisplayValue('queue') || '').toLowerCase();
+    if (
+        fila.indexOf('service desk chat') > -1 ||
+        fila.indexOf('agiliza chat') > -1
+    ) {
+        return 1; // Chat
+    }
 
-if (
-  fila.indexOf('service desk chat') > -1 ||
-  fila.indexOf('agiliza chat') > -1
-) {
-  answer = 1; // Chat
-} else if (
-  fila.indexOf('ura') > -1 ||
-  fila.indexOf('telefone') > -1
-) {
-  answer = 2; // URA
-} else if (
-  fila.indexOf('callback') > -1 ||
-  fila.indexOf('retorno') > -1
-) {
-  answer = 3; // Callback
-} else {
-  answer = 4; // Outros
+    if (
+        fila.indexOf('ura') > -1 ||
+        fila.indexOf('telefone') > -1
+    ) {
+        return 2; // URA
+    }
+
+    if (
+        fila.indexOf('callback') > -1 ||
+        fila.indexOf('retorno') > -1
+    ) {
+        return 3; // Callback
+    }
+
+    return 4; // Outros
 }
+
+getCanal();
