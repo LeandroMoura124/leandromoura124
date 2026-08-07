@@ -70,33 +70,33 @@
   </a>
 </p>
 
-
-
 function obterCanal() {
-    var fila = (queue.getDisplayValue() || '').toLowerCase();
+    var fila = (current.queue.getDisplayValue() || '').toLowerCase();
 
     if (
         fila.indexOf('service desk chat') > -1 ||
         fila.indexOf('agiliza chat') > -1
     ) {
-        return 1; // Chat
+        return 1;
     }
 
     if (
         fila.indexOf('ura') > -1 ||
         fila.indexOf('telefone') > -1
     ) {
-        return 2; // URA
+        return 2;
     }
 
     if (
         fila.indexOf('callback') > -1 ||
         fila.indexOf('retorno') > -1
     ) {
-        return 3; // Callback
+        return 3;
     }
 
-    return 4; // Outros
+    return 4;
 }
+
+obterCanal();
 
 obterCanal();
