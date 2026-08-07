@@ -69,3 +69,28 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+
+
+
+
+var fila = (current.getDisplayValue('queue') || '').toLowerCase();
+
+if (
+  fila.indexOf('service desk chat') > -1 ||
+  fila.indexOf('agiliza chat') > -1
+) {
+  answer = 1; // Chat
+} else if (
+  fila.indexOf('ura') > -1 ||
+  fila.indexOf('telefone') > -1
+) {
+  answer = 2; // URA
+} else if (
+  fila.indexOf('callback') > -1 ||
+  fila.indexOf('retorno') > -1
+) {
+  answer = 3; // Callback
+} else {
+  answer = 4; // Outros
+}
