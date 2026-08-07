@@ -72,9 +72,8 @@
 
 
 
-
-function getCanal() {
-    var fila = (current.getDisplayValue('queue') || '').toLowerCase();
+function obterCanal() {
+    var fila = (queue.getDisplayValue() || '').toLowerCase();
 
     if (
         fila.indexOf('service desk chat') > -1 ||
@@ -100,4 +99,4 @@ function getCanal() {
     return 4; // Outros
 }
 
-getCanal();
+obterCanal();
